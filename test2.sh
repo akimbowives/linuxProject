@@ -10,7 +10,7 @@ echo "<html>
 	I hope this Works
 	</title>
 	<body>
-	<a href="A.html">Link to A</a>
+	<a href="A/A.html">Link to A</a>
 	</body>
 	</html>	" >> index.html
 
